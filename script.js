@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Huh! không ngờ luôn á, anh sẽ để em buồn nữaaa, cảm ơn iem !!!';
+    document.getElementById('messageContainer').innerHTML = 'Huh! không ngờ luôn á, anh sẽ không để em buồn nữaaa, cảm ơn iem !!!';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
