@@ -29,7 +29,7 @@ button {
     cursor: pointer;
     background-color: #E0FFFF; /* Verde */
     color: rgb(7, 7, 7);
-    border: 2px solid #FFE4E1; /* Bordes rosa */
+    border: 2px solid #e3f7f5; /* Bordes rosa */
     border-radius: 10px; /* Esquinas redondeadas */
 }
 
@@ -38,9 +38,9 @@ button {
     font-size: 16px;
     margin: 10px;
     cursor: pointer;
-    background-color: #FFC0CB; /* Rojo */
+    background-color: #14353a; /* Rojo */
     color: white;
-    border: 2px solid #FFE4E1; /* Bordes rosa */
+    border: 2px solid #465966; /* Bordes rosa */
     border-radius: 10px; /* Esquinas redondeadas */
 }
 #noBtn span {
@@ -50,7 +50,7 @@ button {
 }
 
 #siBtn:hover{
-    background-color: #053a03; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
+    background-color: #a2c6d4; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 #noBtn:hover {
     background-color: #641e0d; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
@@ -61,7 +61,7 @@ button {
 
 #messageContainer {
     font-size: 30px;
-    color: #FF0000; /* Color rojo */
+    color: #030513; /* Color rojo */
     font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
     text-shadow: 2px 2px 4px #000; /* Borde simulado */
     animation: pulse 0.5s infinite alternate; /* Animación de palpitación más rápida */
